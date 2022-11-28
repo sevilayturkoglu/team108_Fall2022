@@ -25,7 +25,7 @@ public class C09_Soru {
 }        else if (girilenCumle.contains("is"))
             System.out.println("calismak guzeldir");
 
-         else if(!(girilenCumle.contains("is")||girilenCumle.contains("ev")))
+         else if(!(girilenCumle.contains("is")&&girilenCumle.contains("ev")))
             System.out.println("cok calisman lazim");
 
 
