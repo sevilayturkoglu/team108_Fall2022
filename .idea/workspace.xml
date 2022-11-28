@@ -1,94 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30c3799b-11da-4401-8d0e-cc98134f7f4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01_programlamayaGiris/C02_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C01_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C02_dataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C03_NonPrimitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C05_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C06_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C07_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C08_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C09_Scanner_SwapValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C10_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C11_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C02_ExplicitNarrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C03_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C04_CharDataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C05_WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C06_dataCasting_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C07_Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/C08_SayininRakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/OrnekSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/OrnekSoru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/OrnekSoru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/OrnekSoru4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_MatematikselIslemler/OrnekSoru5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/Bos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/C01_Pre_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/C02_PreVePostIcrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/C03_Concetination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/C04_Opeators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04_Increment_Concatenation/C05_OdevCozum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05_IfStatements/C01_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05_IfStatements/C02_IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05_IfStatements/C03_ifStatmantSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05_IfStatements/C04_IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C01_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C02_IfElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C03_IfElseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C04_IfElseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C05_ifElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C06_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C07IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C08_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C09_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C10_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C11_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C12_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C13_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_IfElseStatement/C14_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C01_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C02_IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C03_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C04_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C05_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C06_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C07_NestedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C08_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C09_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C10_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C11_SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C12_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C13_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C14_SoruBen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C15_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C01_StringManiplation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C02_topperLocale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C03_eqals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C04_equalIgnoreCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C05_CharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C06_length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/C07_substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day08_StringManiplation/bos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C01_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C02_Contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C03_StartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C04_endsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C05_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C06_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C07_ilkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C08_lastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C09_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C10_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C11_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C12_Soru.java" afterDir="false" />
+    <list default="true" id="30c3799b-11da-4401-8d0e-cc98134f7f4f" name="Changes" comment="9.gun degisiklik">
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C03_replaceAll_Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C04_replaceFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C05_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C06_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C07_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C08_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C09_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C10_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C11_forLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_programlamayaGiris/C01_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_programlamayaGiris/C01_HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_StringManipulation/C013_soru5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C013_soru5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_StringManipulation/C09_Soru1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C09_Soru1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_StringManipulation/C10_Soru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C10_Soru2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_StringManipulation/C12_Soru6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C12_Soru6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day09_StringManipulation/C13_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09_StringManipulation/C13_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_stringManipulation/C01_nullPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10_stringManipulation/C01_nullPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_stringManipulation/C03_replaceAll.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,13 +50,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C12_Soru">
-    <configuration name="C07_ilkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_StringManipulation.C07_ilkTest" />
+  <component name="RunManager" selected="Application.C11_forLoop">
+    <configuration name="C03_replaceAll_Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulation.C03_replaceAll_Regex" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_StringManipulation.*" />
+          <option name="PATTERN" value="day10_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_StringManipulation.C09_Soru" />
+    <configuration name="C05_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulation.C05_soru" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_StringManipulation.*" />
+          <option name="PATTERN" value="day10_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_StringManipulation.C10_Soru" />
+    <configuration name="C06_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulation.C06_soru" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_StringManipulation.*" />
+          <option name="PATTERN" value="day10_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_StringManipulation.C11_Soru" />
+    <configuration name="C10_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulation.C10_forLoop" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_StringManipulation.*" />
+          <option name="PATTERN" value="day10_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_StringManipulation.C12_Soru" />
+    <configuration name="C11_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulation.C11_forLoop" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_StringManipulation.*" />
+          <option name="PATTERN" value="day10_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C12_Soru" />
-        <item itemvalue="Application.C09_Soru" />
-        <item itemvalue="Application.C11_Soru" />
-        <item itemvalue="Application.C10_Soru" />
-        <item itemvalue="Application.C07_ilkTest" />
+        <item itemvalue="Application.C11_forLoop" />
+        <item itemvalue="Application.C10_forLoop" />
+        <item itemvalue="Application.C06_soru" />
+        <item itemvalue="Application.C05_soru" />
+        <item itemvalue="Application.C03_replaceAll_Regex" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668420208939</updated>
     </task>
+    <task id="LOCAL-00001" summary="9.gun degisiklik">
+      <created>1669318071445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669318071445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,5 +155,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.gun degisiklik" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.gun degisiklik" />
   </component>
 </project>

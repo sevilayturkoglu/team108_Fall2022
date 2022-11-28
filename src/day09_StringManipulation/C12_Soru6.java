@@ -1,6 +1,6 @@
 package day09_StringManipulation;
 
-public class C12_Soru {
+public class C12_Soru6 {
     public static void main(String[] args) {
         /* Kullanicidan alinan bir String alin, String’in uzunlugu cift sayi ise tam ortasina
         :) ekleyin, String’in uzunlugu tek sayi ise ortadaki harfi silin ve yerine :(
