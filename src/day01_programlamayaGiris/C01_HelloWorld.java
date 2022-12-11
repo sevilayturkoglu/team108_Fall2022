@@ -1,6 +1,8 @@
 package day01_programlamayaGiris;
 
 
+import day12_MethodCreation.C07_TersCevirmeMethodu;
+
 import java.util.Scanner;
 
 public class C01_HelloWorld {
@@ -17,5 +19,6 @@ public class C01_HelloWorld {
         bir sonraki yazdirdigimiz ayni satirdan devam eder
         */
         System.out.println("Bu da 3.satir olsun");
+        System.out.println(C07_TersCevirmeMethodu.metniTerseCevir("Hello world***"));
     }
 }

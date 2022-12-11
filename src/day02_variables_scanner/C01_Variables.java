@@ -14,6 +14,9 @@ public class C01_Variables {
         System.out.println(ogrenciIsmi); // Matrix      .
         ogrenciIsmi="Tayfur Eğribacak";
         System.out.println(ogrenciIsmi); // Tayfur
+        float d1=5.3f;
+        float d2=1.4f;
+        System.out.println(d2 + d1);//6.699999999999999
     }
 }
 

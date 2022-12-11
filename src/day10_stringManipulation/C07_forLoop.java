@@ -17,5 +17,23 @@ public class C07_forLoop {
         for (int i = 1; i <=10 ; i++) {
             System.out.println(i + "- Hello World");
         }
+        String input1="15.30 €";
+        String input2="11.40 €";
+        char parabirimi=input1.charAt(input1.length()-1);
+
+        input1=input1.replace("€","");
+        input2=input2.replace("€","");
+
+        System.out.println(input2);
+        double fiyatString=Double.parseDouble(input1);
+
+
+        double fiyat2String=Double.parseDouble(input2);
+
+
+
+        double yenifiyat=(fiyatString+fiyat2String);
+
+        System.out.println(yenifiyat+" "+parabirimi);
     }
 }

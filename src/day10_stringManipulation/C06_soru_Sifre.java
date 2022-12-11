@@ -1,6 +1,6 @@
 package day10_stringManipulation;
 
-public class C06_soru {
+public class C06_soru_Sifre {
     public static void main(String[] args) {
         // Soru 4 : Kullanicidan bir sifre isteyip, asagidaki sartlari kontrol edin
         // ve kullaniciya duzeltmesi gereken tum eksikleri soyleyin,
@@ -9,7 +9,7 @@ public class C06_soru {
         // - son karakter rakam olmali
         // - sifre bosluk icermemeli
         // - uzunlugu en az 10 karakter olmali
-        String sifre= "abcjhhvj145";
+
         /*
            Bu soruda sartlari bagimsiz if cumlesi ile yapmak
            veya if-else ile yapmak mumkundur
@@ -26,31 +26,33 @@ public class C06_soru {
             veya basta verdigimiz deger olumsuz bir durum oldugunda artirilir,
             en sonda kontrol edip eger bastaki degeri hala koruyorsa basarili olmustur diyebiliriz
          */
-        boolean flag=true;
+        String sifre= "abcjhhvj145";
+        //boolean flag=true;
+        int count=0;
         // - ilk harf kucuk harf olmali
         if (!(sifre.charAt(0)>='a' && sifre.charAt(0)<='z')){
             // ilk harf kucuk degilse hatayi yazdir
             // sifre.charAt(0)<'a' || sifre.charAt(0)>'z'
             System.out.println("Ilk harf kucuk harf olmali");
-            flag=false; // bir ceza puani aldi
+            count++; // bir ceza puani aldi
         }
         // - son karakter rakam olmali
         if (!(sifre.charAt(sifre.length()-1)>='0' && sifre.charAt(sifre.length()-1)<='9')){
             // son karakter rakam degilse rapor yazdir
             System.out.println("Son karakter rakam olmali");
-            flag=false;
+            count++;
         }
         // - sifre bosluk icermemeli
         if (sifre.contains(" ")){
             System.out.println("Sifre bosluk icermemeli");
-            flag=false;
+            count++;
         }
         // - uzunlugu en az 10 karakter olmali
         if ((sifre.length()<10)){
             System.out.println("Sifrenin uzunlugu en az 10 karakter olmali");
-            flag=false;
+            count++;
         }
-        if (flag==true){
+        if (count==0){
             System.out.println("sifreniz basariyla kaydedildi");
         }
 

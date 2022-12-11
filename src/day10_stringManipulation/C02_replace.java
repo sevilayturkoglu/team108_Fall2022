@@ -11,11 +11,14 @@ public class C02_replace {
         System.out.println(telefon.replace("555", "532")); // 532 3451234
         System.out.println(telefon.replace('3', '7')); // 555 7451274
 
+
+
+
         // asagidaki arama sonucunun 10 binden fazla oldugunu test edin
         String sonuc= "1-16 of over 100,000 results for \"apple\"";
         int over=sonuc.indexOf("over");
-        int result=sonuc.indexOf(" result");
-        sonuc=sonuc.substring(over+5,result);
+        int result=sonuc.indexOf("result");
+        sonuc=sonuc.substring(over+5,result-1);
         sonuc=sonuc.replace(",","");
         int sayi=Integer.parseInt(sonuc);
 

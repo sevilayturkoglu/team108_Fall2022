@@ -21,10 +21,12 @@ public class C03_replaceAll_Regex {
    \\s+ : yanyana birden fazla space
    \\d : digits               \\D : digit olmayan hersey
    \\w : harf veya rakam      \\W : harf veya rakam olmayan hersey
- */ str= "Ja7va,; og436ren,./dikce guzelle=-098siyor";
+ */
+        str= "Ja7va,; og436ren,./dikce guzelle=-098siyor";
 
         str=str.replaceAll("\\d","");
-        System.out.println(str); // Java,; ogren,./dikce guzelle=-siyor
+        System.out.println(str); //  Java,; ogren,./dikce guzelle=-siyor
+
         // ozel karakterlerden de kurtulun
         // space de ozel karakter oldugundan bu durumda space'in yok olmamasi icin
         // once space yerine metinde olmayan bir deger atayalim
@@ -38,10 +40,6 @@ public class C03_replaceAll_Regex {
         String input3="Ali Can, Merve Star, Mark Tom";
         input3=input3.replaceAll("\\W","");
         System.out.println(input3.length());//22
-
-
-        String s="acxh8//z    &a ds k54hA5";
-        System.out.println(s.replaceAll("\\W",""));
 
     }
 }

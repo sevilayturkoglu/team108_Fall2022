@@ -13,6 +13,7 @@ public class C10_forLoop {
         int inputBit = 630;
        int count=0;
        int top=0;
+
         for (int i =inputBas; i <=inputBit; i+=7) {
             System.out.print(i+" ");
             top+=i;
