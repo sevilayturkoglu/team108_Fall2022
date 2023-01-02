@@ -2,91 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30c3799b-11da-4401-8d0e-cc98134f7f4f" name="Changes" comment="9.gun degisiklik">
-      <change afterPath="$PROJECT_DIR$/src/day17_Arrays_Multi/SoruBen/ArtikYil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/Soru6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/BeniimSoru/sil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C02_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C03_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C04_size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C05_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C06_soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C07_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C08_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C09_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C10_Soru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C11_Soru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayList/C12_SoruFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/BenimSoruCozum/Soru1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/BenimSoruCozum/Soru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/BenimSoruCozum/Soru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/BenimSoruCozum/Soru4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/BenimSoruCozum/Soru5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C02_ArraydenListYapmak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C03_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C04_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C05_ForeachSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C06_ForeachSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C07_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C08_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/ToyotaRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/C01_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/C02_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/catTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_Cons/C01_StaticBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_Cons/C02_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_Cons/C03_Ben.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_Cons/Rope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_immutableClases/C01_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_immutableClases/C02_ImmutableClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_immutableClases/C03_ImmutableClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_immutableClases/C04_StringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22_immutableClases/C05_LocalDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C01_LocalTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C02_LocalDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C03_DateTimeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C04_Period.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C05_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C06_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C07_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C08_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C09_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/C01_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/C02_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/C03_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/C04_AccesModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/C05_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day24_StringBuilder/EncapsuleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_inheritance/APersonel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_inheritance/BDoktor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_inheritance/CCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_inheritance/DToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25_inheritance/ECorolla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_inheritance/C01_Sinif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_inheritance/DToyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_inheritance/ECorolla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_inheritance/FDizelCorolla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26_inheritance/Sinif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/AHayvanlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/BKuslar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/CAvciKuslar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/DGrandParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/EParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overrding/FChilde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overrding/GExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overrding/HExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_Arrays_Multi/SoruBen/Soru5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_Arrays_Multi/SoruBen/Soru5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_Arrays_Multi/SoruBen/silem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_overrding/CAvciKuslar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_overrding/CAvciKuslar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_overrding/DGrandParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_overrding/DGrandParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_overrding/EParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_overrding/EParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_overrding/FChilde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_overrding/FChilde.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +46,7 @@
       <recent name="C:\Users\SEVILAY\IdeaProjects\team108_Fall2022\src\A" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sinif (2)">
+  <component name="RunManager" selected="Application.GExceptions">
     <configuration name="C01_Sinif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day26_inheritance.C01_Sinif" />
       <module name="team108_Fall2022" />
@@ -138,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ECorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25_inheritance.ECorolla" />
+    <configuration name="GExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_overrding.GExceptions" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25_inheritance.*" />
+          <option name="PATTERN" value="day27_overrding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GExceptions" />
         <item itemvalue="Application.Sinif (2)" />
         <item itemvalue="Application.Sinif" />
         <item itemvalue="Application.Sinif (1)" />
         <item itemvalue="Application.C01_Sinif" />
-        <item itemvalue="Application.ECorolla" />
       </list>
     </recent_temporary>
   </component>
