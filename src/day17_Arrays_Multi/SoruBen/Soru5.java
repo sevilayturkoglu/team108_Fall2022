@@ -9,9 +9,9 @@ toplaminini yazdiran bir method olusturun
 
         int[][] arr = {{3,1,2,4},{1,2},{3,4,5},{3},{1,2,11}};
 
-         int a=arr[0][arr[0].length-1];
+        System.out.println(arr[0].length - 1);
 
-           System.out.println(toplaGetir(arr));
+        System.out.println(toplaGetir(arr));
     }public static int toplaGetir(int[][] arr){
        int toplam=0;
         for (int i = 0; i < arr.length ; i++) {
@@ -19,19 +19,19 @@ toplaminini yazdiran bir method olusturun
             toplam+= arr[i][arr[i].length-1];
 
         } return toplam;
-        /*
-        int say = arr[0][arr[0].length - 1];
 
 
-        int toplam = 0;
+
+
+      /*  int toplam = 0;
         for (int i = 0; i < arr.length; i++) {
-            for (int j = arr[i].length-2; j <= arr[i].length-2; j++) {
+            for (int j = arr[i].length-1; j <= arr[i].length-1; j++) {
 
                 toplam += arr[i][j];
             }
 
 
-        } System.out.println(toplam);
-         */
+        } System.out.println(toplam);*/
+
     }
 }
