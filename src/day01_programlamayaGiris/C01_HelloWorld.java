@@ -20,5 +20,15 @@ public class C01_HelloWorld {
         */
         System.out.println("Bu da 3.satir olsun");
         System.out.println(C07_TersCevirmeMethodu.metniTerseCevir("Hello world***"));
+
+
+        System.out.println(true || 5/0==0);//daha hizlidir ilk true gorunce ikinciye bakmaz true yazar
+
+     // System.out.println(true | 5/0==0);
+        System.out.println(false && 5/0==0);//daha hizlidir ilk false gorunce ikinciye bakmaz false yazar
+
+        int day=1;
+        System.out.println(day == 1 ? "Monday" : day == 2 ? "Tuesday" : day == 3 ? "Wednesday" : day == 4 ? "Thuresday"
+                : day == 5 ? "Friday" : day == 6 ? "Saturday" : day == 7 ? "Sunday" : "gecerli gun degil");
     }
 }

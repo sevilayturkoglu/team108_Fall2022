@@ -143,7 +143,7 @@ public class MapMethodDepo {
         for (Map.Entry<Integer, String> eachEntry : entries) {
             String value = eachEntry.getValue();
             String[] split = value.split("-");
-            if (split[2].equals(sinif)) {
+            if (split[2].equalsIgnoreCase(sinif)) {
                 System.out.println(eachEntry.getKey() + " " +
                         split[0] + " " +
                         split[1] + " " +

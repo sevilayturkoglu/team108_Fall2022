@@ -11,7 +11,7 @@ public class C05_SoyisimleriBuyukHarfYapmak {
         Map<Integer,String> ogrenciMap= MapMethodDepo.ogrenciMapOlustur();
 
         ogrenciMap= MapMethodDepo.soyisimleriBuyukHarfYap(ogrenciMap);
-
+        System.out.println(ogrenciMap);
         MapMethodDepo.tumListeYazdir(ogrenciMap);
 
         // 11.siniflari yazdir
