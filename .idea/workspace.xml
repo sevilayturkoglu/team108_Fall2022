@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3799b-11da-4401-8d0e-cc98134f7f4f" name="Changes" comment="9.gun degisiklik">
-      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/PaliandromeSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/PossibleValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C02_NestedMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C03_MapMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C04_Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C05_Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C06_TreeMapmethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_genelTekrar/C01_PrintFCarpimTablosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_genelTekrar/C02_PrintFOndalikSayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_genelTekrar/C03_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_genelTekrar/C04_BolmeIslemSonucunuCarpmaIleBulma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_GenelTekrar/C01_RecursiveMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_GenelTekrar/C02_String_CumledeGecenKelimeSayisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_GenelTekrar/C03_OOPKodOkuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/ExtractValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/FrequanceOfCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_programlamayaGiris/C01_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01_programlamayaGiris/C01_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C03_Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatement/C03_Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Set_Map/MapMethodDepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Set_Map/MapMethodDepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day33_map/C05_SoyisimleriBuyukHarfYapmak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33_map/C05_SoyisimleriBuyukHarfYapmak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C01_NestedOgrenciMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day34_Maps_nestedMaps/C01_NestedOgrenciMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/PossibleValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alistirma_GenelTekrar/PossibleValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,39 +50,13 @@
       <recent name="C:\Users\SEVILAY\IdeaProjects\team108_Fall2022\src\A" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="C01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_programlamayaGiris.C01_HelloWorld" />
+  <component name="RunManager" selected="Application.FrequanceOfCharacter">
+    <configuration name="ExtractValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alistirma_GenelTekrar.ExtractValues" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_programlamayaGiris.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_RecursiveMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_GenelTekrar.C01_RecursiveMethods" />
-      <module name="team108_Fall2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_GenelTekrar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_String_CumledeGecenKelimeSayisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_GenelTekrar.C02_String_CumledeGecenKelimeSayisi" />
-      <module name="team108_Fall2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_GenelTekrar.*" />
+          <option name="PATTERN" value="Alistirma_GenelTekrar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +66,19 @@
     </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Alistirma_GenelTekrar.Fibonacci" />
+      <module name="team108_Fall2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alistirma_GenelTekrar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequanceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alistirma_GenelTekrar.FrequanceOfCharacter" />
       <module name="team108_Fall2022" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PossibleValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alistirma_GenelTekrar.PossibleValue" />
+      <module name="team108_Fall2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alistirma_GenelTekrar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequanceOfCharacter" />
+        <item itemvalue="Application.ExtractValues" />
+        <item itemvalue="Application.PossibleValue" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.PaliandromeSayi" />
-        <item itemvalue="Application.C01_HelloWorld" />
-        <item itemvalue="Application.C02_String_CumledeGecenKelimeSayisi" />
-        <item itemvalue="Application.C01_RecursiveMethods" />
       </list>
     </recent_temporary>
   </component>
